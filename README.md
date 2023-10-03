@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 
   **languages and tools:**
+  
   [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,git,arduino,django&theme=light)](https://skillicons.dev)
-
 
 
 
