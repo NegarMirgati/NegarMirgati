@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: negar.nbj95@gmail.com
 - 😄 Pronouns: she/her
 
+  **languages and tools:**
+  [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,git,arduino,django&theme=light)](https://skillicons.dev)
+
+
+
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=NegarMirgati&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NegarMirgati&langs_count=5&theme=tokyonight)]()
 
