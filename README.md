@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Procedural Level Generation via Machine Learning
 - 📫 How to reach me: negar.nbj95@gmail.com
 - 😄 Pronouns: she/her
-<img alt="Chick Coding" src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" align="right" width="400px"/>
+<img alt="Chick Coding" src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" align="right" width="300px"/>
 
 
  **languages and tools:** 
