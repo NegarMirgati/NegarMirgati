@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I have worked on the application of deep learning techniques for generating and translating game levels
 - 🔭 I’m currently working on player detection in video games via computer vision techniques
+- 🤓 I'm studying Transformers and LLMs in my free time!
 - 📫 How to reach me: negar.nbj95@gmail.com
 - 😄 Pronouns: she/her
 <img alt="Chick Coding" src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" align="right" width="300px"/>
